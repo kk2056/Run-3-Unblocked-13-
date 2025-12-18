@@ -1,0 +1,8 @@
+{
+  "name": "Run 3 Unblocked（13）",
+  "description": "The ultimate unblocked game station for Run 3, optimized for Chromebooks and school environments with a crash-proof single-file logic architecture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
