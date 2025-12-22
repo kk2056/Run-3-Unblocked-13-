@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://run32025.online/sitemap.xml
